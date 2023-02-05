@@ -1,0 +1,3 @@
+London,51 Victoria Street,500
+New York,722 Jackson Street,700
+Paris,31 Quai des Belges,450
